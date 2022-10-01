@@ -1,0 +1,85 @@
+*{
+    background-color: #000;    
+}
+.show-display  {
+    display: table;
+    margin: 0 auto;
+    color: #fff;
+    height: 2rem;
+    width: 12rem;
+    text-align: end;
+    /* margin-right: ; */
+    position: relative;
+    margin-top: 8rem;
+}
+.zero{
+    font-size: 2rem;
+}
+table{
+    display: table;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.key{
+    color: #fff;
+    background-color: rgb(70, 68, 68);
+    display: flex;
+    width: 3rem;
+    height: 3rem;
+    margin: .1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.Allclear{
+    color: #fff;
+    background-color: rgb(70, 68, 68);
+    display: flex;
+    width: 3rem;
+    height: 3rem;
+    margin: .1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.clear{
+    color: #fff;
+    background-color: rgb(70, 68, 68);
+    display: flex;
+    width: 3rem;
+    height: 3rem;
+    margin: .1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.cal{
+    background-color: orange;
+    cursor: pointer;
+}
+.calculate{
+    background-color: orange;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    width: 3rem;
+    height: 3rem;
+    margin: .1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.oprator{
+    background-color: gray;
+    cursor: pointer;
+}
+.uniq{
+    width: 100px;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
